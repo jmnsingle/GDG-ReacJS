@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.25rem 0;
+}
+
+.header img {
+  height: 2rem;
+}
+
+.header strong {
+  margin-left: 1rem;
+  font-weight: 700;
+}
